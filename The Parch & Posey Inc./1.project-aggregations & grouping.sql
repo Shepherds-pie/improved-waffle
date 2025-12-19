@@ -1,4 +1,4 @@
-Data Aggregation - MIN & MAX
+Data Aggregation - MIN & MAX & AVG & MEDIAN
 
 1. When was the earliest order ever placed? Just return a date. 
 SELECT MIN(occurred_at) AS earliest_order_date
